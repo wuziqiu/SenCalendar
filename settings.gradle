@@ -1,0 +1,2 @@
+include ':app', ':SenCalendar'
+project(':SenCalendar').projectDir = new File('calendar')
